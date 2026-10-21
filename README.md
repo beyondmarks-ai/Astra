@@ -118,3 +118,10 @@ server.js        Next.js server with AI Ask WebSocket support
 - Provider credentials stay in encrypted Azure Function App settings.
 - The Next.js server uses one revocable Function key.
 - Blob access uses short-lived server-side SAS tokens; browser file requests are proxied through the application.
+
+<!-- beyond-marks-credit:start -->
+---
+### Built by Beyond Marks AI Academy
+
+Developed by **Rakesh Kumar** at [Beyond Marks AI Academy](https://beyondmarks.ai).
+<!-- beyond-marks-credit:end -->
